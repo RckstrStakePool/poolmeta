@@ -1,6 +1,7 @@
 {
-  "name":"Rckstr Stake Pool",
-  "ticker":"RCKSP",
-  "description":"Be a RCKSTR and stake for social projects",
-  "homepage":"https://twitter.com/RckstrStakePool",
+  "name": "Rckstr Stake Pool",
+  "ticker": "RCKSP",
+  "description": "Be a RCKSTR and stake for social projects",
+  "homepage": "https://twitter.com/RckstrStakePool",
+  "nonce": "1636908036"
 }
