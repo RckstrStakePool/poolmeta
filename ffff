@@ -1,7 +1,7 @@
 {
       "info": {
-        "url_png_icon_64x64": "https://github.com/RckstrStakePool/poolmeta/blob/main/adapools.png",
-        "url_png_logo": "https://github.com/RckstrStakePool/poolmeta/blob/main/adapools.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/RckstrStakePool/poolmeta/main/adapools.png",
+        "url_png_logo": "https://raw.githubusercontent.com/RckstrStakePool/poolmeta/main/adapools.png",
         "social": {
             "twitter_handle": "https://twitter.com/RckstrStakePool"
         }
