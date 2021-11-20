@@ -1,0 +1,40 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/RckstrStakePool/poolmeta/main/adapools.png",
+        "url_png_logo": "https://raw.githubusercontent.com/RckstrStakePool/poolmeta/main/adapools.png",
+        "location": "Germany",
+        "social": {
+            "twitter_handle": "@RckstrStakePool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Rckstr Stake Pool",
+            "addr": "",
+            "city": "Germany",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "Be a RCKSTR and stake for social projects.",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "435f7f1af165a0696f8142f8f2863f2e2e71c5cab269d264ad5b6367",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
